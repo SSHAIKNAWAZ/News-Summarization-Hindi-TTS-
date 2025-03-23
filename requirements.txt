@@ -2,5 +2,7 @@ streamlit
 requests
 nltk
 transformers
+keybert
 googletrans==4.0.0-rc1
 gtts
+beautifulsoup4
